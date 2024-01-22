@@ -7,7 +7,8 @@
 - Import required modules, Create server, Read request and return response
 - REPL (READ, EVAL, PRINT, LOOP)
 - NPM (Node Package Manager)
-- Global Objects (Buffer, )
+- Global Objects
+- Modules (Core Modules, local Modules, Third-party Modules)
 
 
 
